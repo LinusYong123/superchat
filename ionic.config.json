@@ -1,0 +1,7 @@
+{
+    "name": "superchat",
+    "integrations": {
+      "capacitor": {}
+    },
+    "type": "react"
+  }

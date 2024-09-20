@@ -1,0 +1,8 @@
+{
+    "appId": "io.ionic.superchat",
+    "appName": "superchat",
+    "bundledWebRuntime": false,
+    "npmClient": "npm",
+    "webDir": "build",
+    "cordova": {}
+  }
